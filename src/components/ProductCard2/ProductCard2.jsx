@@ -12,7 +12,6 @@
 *
 **********************************************************************/
 
-import { Helmet } from 'react-helmet';
 import { styled } from '@mui/material/styles';
 import PicImage from 'src/assets/images/ProductCard2_pic.png';
 import RatingStar from 'src/components/RatingStar/RatingStar';
@@ -25,7 +24,7 @@ const TypeQuest = styled("div")({
   position: `relative`,  
   isolation: `isolate`,  
   flexDirection: `column`,  
-  width: "100%",  
+  width: `417px`,  
   justifyContent: `flex-start`,  
   alignItems: `flex-start`,  
   padding: `0px`,  
@@ -267,9 +266,6 @@ const Colors = styled("div")({
 function ProductCard2(props) {
   return (
     <TypeQuest className={props.className} >
-      <Helmet>
-        <title>Product_Card-2</title>
-      </Helmet>
       <Pic >
       </Pic>
       <About >
