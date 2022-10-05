@@ -15,7 +15,7 @@
 import { Button } from '@mui/material';
 import { styled } from '@mui/material/styles';
 import PicImage from 'src/assets/images/ProductCard1_pic.png';
-
+import useProductCard1 from 'src/components/ProductCard1/useProductCard1';
  
 const TypeQuest = styled("div")({  
   backgroundColor: `rgba(255, 255, 255, 1)`,  
@@ -121,6 +121,7 @@ const ButtonContained = styled(Button)({
 });
  
 function ProductCard1(props) {
+  const {fns} = useProductCard1();
   return (
     <TypeQuest className={props.className} >
       <Pic >
@@ -135,7 +136,7 @@ function ProductCard1(props) {
               {"$199.99"}
                 </Price>
           </Text>
-          <ButtonContained variant="contained" size="large" color="primary"    > Buy Now </ButtonContained>
+          <ButtonContained variant="contained" size="large" color="primary"  onClick={fns.handleBuy()}  > Buy Now </ButtonContained>
         </AboutProduct>
       </About>
     </TypeQuest>
