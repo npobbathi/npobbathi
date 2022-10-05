@@ -25,7 +25,7 @@ const TypeQuest = styled("div")({
   position: `relative`,  
   isolation: `isolate`,  
   flexDirection: `column`,  
-  width: "100%",  
+  width: `417px`,  
   justifyContent: `flex-start`,  
   alignItems: `flex-start`,  
   padding: `0px`,  
