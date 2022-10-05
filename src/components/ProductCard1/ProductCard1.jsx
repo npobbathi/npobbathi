@@ -25,7 +25,7 @@ const TypeQuest = styled("div")({
   position: `relative`,  
   isolation: `isolate`,  
   flexDirection: `column`,  
-  width: `417px`,  
+  width: "100%",  
   justifyContent: `flex-start`,  
   alignItems: `flex-start`,  
   padding: `0px`,  
@@ -132,7 +132,7 @@ function ProductCard1(props) {
               {`Non-selfie camera`}
                 </Product>
             <Price >
-              {`$299.99`}
+              {"$199.99"}
                 </Price>
           </Text>
           <ButtonContained variant="contained" size="large" color="primary"    > Buy Now </ButtonContained>
