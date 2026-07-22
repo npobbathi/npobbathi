@@ -8,9 +8,8 @@ signals) — and founded two companies along the way. Today I'm **Head of Produc
 IrisGo.AI** (backed by AI Fund / Andrew Ng), building an AI operating system for personal
 computers.
 
-I still build hands-on. Most of what's here is me prototyping **agentic AI systems** —
-tool-calling, LLM evaluation, and runtime verification — plus a few education apps I made
-for my kids.
+I'm a hands-on builder. Most of what's here is **agentic AI systems** — tool-calling,
+LLM evaluation, and runtime verification — plus a few education apps I made for my kids.
 
 ---
 
