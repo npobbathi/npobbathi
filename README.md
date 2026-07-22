@@ -5,12 +5,12 @@
 I've spent 15+ years building trust and transaction platforms at scale — **Yahoo Search**
 ($2B+ P&L, 100M+ DAUs) and **Capital One Identity** (120M+ accounts, 200M+ daily risk
 signals) — and founded two companies along the way. Today I'm **Head of Product at
-[IrisGo.AI](https://irisgo.ai)** (backed by AI Fund / Andrew Ng), building an AI operating
-system for personal computers.
+IrisGo.AI** (backed by AI Fund / Andrew Ng), building an AI operating system for personal
+computers.
 
-I'm also the rare product exec who still ships code. Most of what's here is me building
-**agentic AI systems** hands-on — tool-calling, LLM evaluation, and runtime verification —
-plus a few education apps I built for my kids.
+I still build hands-on. Most of what's here is me prototyping **agentic AI systems** —
+tool-calling, LLM evaluation, and runtime verification — plus a few education apps I made
+for my kids.
 
 ---
 
@@ -28,11 +28,10 @@ plus a few education apps I built for my kids.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **BeeBetter: Flags** | Flag-trivia app; questions drafted by Claude, human-reviewed | Expo/React Native · Next.js · Supabase |
-| **BeeBetter: Spelling** | The Scripps Spelling Bee as a voice conversation with an AI pronouncer/judge | Swift (iOS) · LLM |
-| **Telugu Talk** | Teaches conversational Telugu to heritage kids — script, romanization, audio, mic checks | React · TypeScript · Vite |
 | **Enterprise Learning Agents** | Design framework for self-improving agentic systems in the enterprise | Agent design · Claude |
-| **MicPassThrough** | Low-latency (~2ms) iOS mic → speaker/Bluetooth routing | Swift · Xcode |
+| **Quest.ai** | AI design-to-code platform I founded — 200K+ developers; multimodal AI stack with an LLM evaluation harness | Vertex AI · GPT · React |
+| **BeeBetter** | Education app series for kids — flag trivia and a spoken Scripps-style spelling bee with an AI pronouncer/judge | Expo/RN · Swift (iOS) · Supabase |
+| **Telugu Talk** | Teaches conversational Telugu to heritage kids — script, romanization, audio, mic checks | React · TypeScript · Vite |
 
 Also tinkering with an **AI calendar agent**, a **Claude Code interview-coaching skill**,
 and a personal **task-triage agent** running on a VPS.
