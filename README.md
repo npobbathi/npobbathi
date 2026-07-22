@@ -2,6 +2,8 @@
 
 ### Product Executive building the trust layer for AI and payments — and a hands-on agentic-AI builder
 
+*[Yes, I asked Claude Code to draft this, as it is very familiar with all of my projects, and is more efficient at summarizing things than me.]*
+
 I've spent 15+ years building trust and transaction platforms at scale — **Yahoo Search**
 ($2B+ P&L, 100M+ DAUs) and **Capital One Identity** (120M+ accounts, 200M+ daily risk
 signals) — and founded two companies along the way. Today I'm **Head of Product at
